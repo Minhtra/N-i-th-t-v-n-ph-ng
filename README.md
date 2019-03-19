@@ -30,7 +30,7 @@ Chuyên tư vấn cung cấp nội thất văn phòng cao cấp
 <ul>
 <li style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Trí tuệ và sự thông thái</span></span></li></ul>
 <p style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Hãy tập trung vào góc bên trái gần ghế của bàn nếu bạn đang học hoặc tìm hiểu thêm một cái gì đó. Vị trí này đặc biệt phù hợp với các bạn học sinh, sinh viên đang chuẩn bị thi cử.</span></span></p>
-<p style="text-align: justify;"><img alt="Bàn làm việc được chia thành 9 ô tương đương với 9 vị trí" data-thumb="original" src="//bizweb.dktcdn.net/100/053/486/files/ban-lam-viec-nhan-vien.jpg?v=1517211372507" style="width: 600px; height: 354px;" /></p>
+
 <ul>
 <li style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Gia đình</span></span></li></ul>
 <p style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Một bức ảnh gia đình là lựa chọn tối ưu nhất cho vị trí bên trái, ở giữa bàn. Điều này giúp tạo cho bạn nguồn động lực mạnh mẽ để làm việc.</span></span></p>
